@@ -145,8 +145,5 @@ fresh-grocers/
 
 **K.D. Kaveesha Amiru Nimnaka Fernando** | Student ID: 00272845  
 Pearson BTEC HND in Computing — Unit 35: System Analysis & Design  
-Academic Year: 2024/2025  
-Unit Tutor: Ms. Dilroshalini Devadason  
-Institution: ESOFT Metro Campus
 
 > This project was developed for academic purposes.
